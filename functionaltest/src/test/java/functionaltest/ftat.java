@@ -20,8 +20,8 @@ public class ftat {
 	//public String URL1 = "http://52.20.56.83:8080/QAWebapp/avncreatepage.jsp";
 	
 	
-	public String URL = "http://54.236.54.150:8080/QAWebapp/";
-	public String URL1 = "http://54.236.54.150:8080/QAWebapp/avncreatepage.jsp";
+	public String URL = "http://52.204.70.123:8080/QAWebapp/";
+	public String URL1 = "http://52.204.70.123:8080/QAWebapp/avncreatepage.jsp";
 	//public String URL = "http://localhost:8080/AVNCommunication-1.0/avnlogin.jsp";
 	//public String URL1 = "http://localhost:8080/AVNCommunication-1.0/avncreatepage.jsp";
 	 
